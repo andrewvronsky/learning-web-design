@@ -1,0 +1,28 @@
+HTML Tags:
+
+    <!DOCTYPE html>: Declares the HTML document type
+    <html>: The root element of an HTML page
+    <head>: Contains meta information about the document, including the page title
+    <body>: Contains the visible content of the document
+    <h1> to <h6>: Defines headings of different sizes
+    <p>: Defines a paragraph
+    <a>: Defines a hyperlink
+    <img>: Defines an image
+    <ul> and <li>: Defines an unordered list
+    <ol> and <li>: Defines an ordered list
+    <div>: Defines a container for HTML elements
+
+CSS Properties:
+
+    color: Defines the color of text
+    background-color: Defines the background color of an element
+    font-size: Defines the size of text
+    font-family: Defines the font family for text
+    margin: Defines the margin of an element
+    padding: Defines the padding of an element
+    border: Defines the border of an element
+    width: Defines the width of an element
+    height: Defines the height of an element
+    display: Defines how an element should be displayed (e.g. block or inline)
+
+Keep in mind that these are just a few of the many HTML and CSS tags and properties available, and that different situations may call for different combinations of tags and properties. Nonetheless, this cheat sheet should be a good starting point for those new to HTML and CSS!
